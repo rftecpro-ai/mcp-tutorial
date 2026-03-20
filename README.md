@@ -81,5 +81,3 @@ As AI becomes more collaborative and tool-dependent, MCP is setting the standard
 - [Claude by Anthropic](https://claude.ai)
 
 ---
-
-*Created as part of an AI learning series.*
