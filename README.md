@@ -1,1 +1,85 @@
-IyBNb2RlbCBDb250ZXh0IFByb3RvY29sIChNQ1ApCgo+ICoqQW4gb3BlbiBzdGFuZGFyZCBieSBBbnRocm9waWMgZm9yIGVuYWJsaW5nIEFJIGFnZW50cyB0byBjb21tdW5pY2F0ZSwgY29sbGFib3JhdGUsIGFuZCBpbnRlZ3JhdGUgd2l0aCB0aGUgd29ybGQgYXJvdW5kIHRoZW0uKioKCi0tLQoKIyMg8J+noCBXaGF0IGlzIE1DUD8KCk1vZGVsIENvbnRleHQgUHJvdG9jb2wgKE1DUCkgd2FzIGludHJvZHVjZWQgaW4gKioyMDI0IGJ5IEFudGhyb3BpYyoqIGFzIGFuIG9wZW4gc3RhbmRhcmQgdGhhdCBoZWxwcyBtdWx0aXBsZSBBSSBhZ2VudHMgd29yayB0b2dldGhlciBlZmZpY2llbnRseS4gSXQgZW5hYmxlczoKCi0g8J+ToSAqKlN0cnVjdHVyZWQgY29tbXVuaWNhdGlvbioqIGJldHdlZW4gYWdlbnRzIGFuZCB0b29scwotIPCfp6kgKipDb250ZXh0IHNoYXJpbmcqKiBhY3Jvc3Mgc2Vzc2lvbnMgYW5kIHN5c3RlbXMKLSDwn5SMICoqU2VhbWxlc3MgaW50ZWdyYXRpb24qKiB3aXRoIGV4dGVybmFsIHRvb2xzIGFuZCBkYXRhIHNvdXJjZXMKCi0tLQoKIyMg8J+UhCBCZWZvcmUgJiBBZnRlciBNQ1AKCnwgfCBCZWZvcmUgTUNQIHwgQWZ0ZXIgTUNQIHwKfC0tLXwtLS18LS0tfAp8ICoqSW50ZWdyYXRpb24qKiB8IEVhY2ggbmV3IGRhdGEgc291cmNlIHJlcXVpcmVkIGN1c3RvbSBpbXBsZW1lbnRhdGlvbiB8IFVuaWZpZWQgcHJvdG9jb2wgZm9yIGFsbCB0b29scyBhbmQgc291cmNlcyB8CnwgKipDb3N0KiogfCBFeHBlbnNpdmUgYW5kIHRpbWUtY29uc3VtaW5nIHRvIHNjYWxlIHwgUmV1c2FibGUsIHN0YW5kYXJkaXplZCBjb25uZWN0aW9ucyB8CnwgKipDb2xsYWJvcmF0aW9uKiogfCBBZ2VudHMgb3BlcmF0ZWQgaW4gc2lsb3MgfCBBZ2VudHMgY29sbGFib3JhdGUgaW4gcmVhbC10aW1lIHVzaW5nIHNoYXJlZCBtZW1vcnkgfAp8ICoqVG9vbHMqKiB8IEN1c3RvbSBjb25uZWN0b3JzIHBlciB0b29sIHwgV29ya3Mgb3V0LW9mLXRoZS1ib3ggd2l0aCBTbGFjaywgTm90aW9uLCBHb29nbGUgRHJpdmUsIGFuZCBtb3JlIHwKCi0tLQoKIyMg8J+Pl++4jyBNQ1AgQXJjaGl0ZWN0dXJlCgpNQ1AgaXMgYnVpbHQgYXJvdW5kICoqdGhyZWUgY29yZSBjb21wb25lbnRzKio6ICoqSG9zdCoqLCAqKkNsaWVudCoqLCBhbmQgKipTZXJ2ZXIqKi4KCiMjIyDwn4+gIEhvc3QKVGhlICoqSG9zdCoqIGlzIGFuIExMTSBhcHBsaWNhdGlvbiAoZS5nLiwgQ2xhdWRlIERlc2t0b3ApIHRoYXQgcHJvdmlkZXMgdGhlIGVudmlyb25tZW50IHdoZXJlIHRoZSBBSSBzeXN0ZW0gcnVucy4gSXQgbWFuYWdlcyBpbnRlcmFjdGlvbnMgYmV0d2VlbiB0aGUgQ2xpZW50IGFuZCBTZXJ2ZXIg4oCUIHRoaW5rIG9mIGl0IGFzIHRoZSAqaG9tZSogd2hlcmUgdGhlIEFJIGxpdmVzIGFuZCBvcGVyYXRlcy4KCiMjIyDwn5SBIENsaWVudApUaGUgKipDbGllbnQqKiBpcyBhIGxpZ2h0d2VpZ2h0IHByb2Nlc3Mgb3IgbW9kdWxlIHRoYXQgbGl2ZXMgaW5zaWRlIHRoZSBIb3N0LiBJdHMgcmVzcG9uc2liaWxpdGllcyBpbmNsdWRlOgotIEludGVycHJldGluZyBpbnN0cnVjdGlvbnMgZnJvbSB0aGUgQUkgYWdlbnQKLSBTZW5kaW5nIHRob3NlIGluc3RydWN0aW9ucyB0byB0aGUgYXBwcm9wcmlhdGUgTUNQIFNlcnZlcgotIFJlY2VpdmluZyByZXN1bHRzIGFuZCByZWxheWluZyB0aGVtIGJhY2sgdG8gdGhlIGFnZW50CgojIyMg4pqZ77iPIFNlcnZlcgpUaGUgKipTZXJ2ZXIqKiBpcyB3aGVyZSBhbGwgdGhlIGFjdHVhbCB0b29scyBhbmQgZGF0YSBzb3VyY2VzIGxpdmUg4oCUIGl0J3MgdGhlICphY3Rpb24gY2VudHJlKi4gSXQgY2FuIGJlOgotIEEgKipsb2NhbCBhcHAqKiBydW5uaW5nIG9uIHlvdXIgY29tcHV0ZXIKLSBBICoqcmVtb3RlIHNlcnZlcioqIGhvc3RlZCBpbiB0aGUgY2xvdWQKCkl0IGhvdXNlcyBwcmVkZWZpbmVkIHRvb2xzIGFuZCBzZXJ2aWNlcyBzdWNoIGFzIEFQSXMsIGZpbGUgYWNjZXNzIHN5c3RlbXMsIGFuZCBjb2RlIGV4ZWN1dGlvbiBlbnZpcm9ubWVudHMuCgotLS0KCiMjIPCflIAgTWVzc2FnZSBUaHJlYWRpbmcgJiBUdXJuLVRha2luZwoKTUNQIGFsc28gaGFuZGxlcyAqKnR1cm4tdGFraW5nIGFuZCBtZXNzYWdlIHRocmVhZGluZyoqLCBlbnN1cmluZyB0aGF0IGV2ZW4gd2hlbiBhZ2VudHMgYXJlIHNwcmVhZCBhY3Jvc3MgZGlmZmVyZW50IHN5c3RlbXMg4oCUIHN1Y2ggYXMgZW1haWwsIFNsYWNrLCBvciBjdXN0b20gdG9vbHMg4oCUIHRoZXkgcmVtYWluIGluIHN5bmMgYW5kIGNhbiBoYW5kIG9mZiBjb250ZXh0IGNsZWFubHkuCgotLS0KCiMjIPCfmoAgV2h5IE1DUCBNYXR0ZXJzCgpBcyBBSSBiZWNvbWVzIG1vcmUgY29sbGFib3JhdGl2ZSBhbmQgdG9vbC1kZXBlbmRlbnQsIE1DUCBpcyBzZXR0aW5nIHRoZSBzdGFuZGFyZCBmb3IgaG93IGludGVsbGlnZW50IHN5c3RlbXMgKipjb21tdW5pY2F0ZSoqLCAqKmludGVncmF0ZSoqLCBhbmQgKipzY2FsZSoqLiBCeSBwcm92aWRpbmcgYSBzaGFyZWQgcHJvdG9jb2wsIE1DUCByZWR1Y2VzIGZyaWN0aW9uLCBsb3dlcnMgZGV2ZWxvcG1lbnQgY29zdHMsIGFuZCB1bmxvY2tzIHRoZSBmdWxsIHBvdGVudGlhbCBvZiBtdWx0aS1hZ2VudCBBSSB3b3JrZmxvd3MuCgotLS0KCiMjIPCfk5ogUmVzb3VyY2VzCgotIFtBbnRocm9waWMgTUNQIERvY3VtZW50YXRpb25dKGh0dHBzOi8vZG9jcy5hbnRocm9waWMuY29tKQotIFtNQ1AgR2l0SHViIChtb2RlbGNvbnRleHRwcm90b2NvbCldKGh0dHBzOi8vZ2l0aHViLmNvbS9tb2RlbGNvbnRleHRwcm90b2NvbCkKLSBbQ2xhdWRlIGJ5IEFudGhyb3BpY10oaHR0cHM6Ly9jbGF1ZGUuYWkpCgotLS0KCipDcmVhdGVkIHdpdGgg4p2k77iPIGFzIHBhcnQgb2YgYW4gQUkgbGVhcm5pbmcgc2VyaWVzLioK
+# Model Context Protocol (MCP)
+
+> **An open standard by Anthropic for enabling AI agents to communicate, collaborate, and integrate with the world around them.**
+
+---
+
+## What is MCP?
+
+Model Context Protocol (MCP) was introduced in **2024 by Anthropic** as an open standard that helps multiple AI agents work together efficiently. It enables:
+
+- **Structured communication** between agents and tools
+- **Context sharing** across sessions and systems
+- **Seamless integration** with external tools and data sources
+
+---
+
+## Before & After MCP
+
+Before MCP connecting models to new data source requires custom implementation, which can get expensive.
+
+After MCP agent collaborate in real-time using shared memory, enabling seamless interaction across tools like slack, notion, and Google Drive through unified protocol
+
+| | Before MCP | After MCP |
+|---|---|---|
+| **Integration** | Each new data source required custom implementation | Unified protocol for all tools and sources |
+| **Cost** | Expensive and time-consuming to scale | Reusable, standardized connections |
+| **Collaboration** | Agents operated in silos | Agents collaborate in real-time using shared memory |
+| **Tools** | Custom connectors per tool | Works out-of-the-box with Slack, Notion, Google Drive, and more |
+
+---
+
+## MCP Architecture
+
+MCP is built around **three core components**: **Host**, **Client**, and **Server**.
+
+<img width="1541" height="753" alt="Screenshot 2026-03-20 at 2 20 59 PM" src="https://github.com/user-attachments/assets/f408ad13-5ee7-415c-8bb0-835709fb44aa" />
+
+
+
+### Host
+The **Host** is an LLM application (e.g., Claude Desktop) that provides the environment where the AI system runs. It manages interactions between the Client and Server — think of it as the *home* where the AI lives and operates.
+
+<img width="1537" height="765" alt="Screenshot 2026-03-20 at 2 22 03 PM" src="https://github.com/user-attachments/assets/1d78d106-52a5-4bc4-a255-a0161ee7881d" />
+
+
+### Client
+The **Client** is a lightweight process or module that lives inside the Host. Its responsibilities include:
+- Interpreting instructions from the AI agent
+- Sending those instructions to the appropriate MCP Server
+- Receiving results and relaying them back to the agent
+
+<img width="1514" height="987" alt="mcpserver" src="https://github.com/user-attachments/assets/2d41d93a-7478-4dc3-bc75-8b285d2eaf47" />
+
+
+
+### Server
+The **Server** is where all the actual tools and data sources live — it's the *action centre*. It can be:
+- A **local app** running on your computer
+- A **remote server** hosted in the cloud
+
+It houses predefined tools and services such as APIs, file access systems, and code execution environments.
+
+---
+
+## Message Threading & Turn-Taking
+
+MCP also handles **turn-taking and message threading**, ensuring that even when agents are spread across different systems — such as email, Slack, or custom tools — they remain in sync and can hand off context cleanly.
+
+---
+
+## Why MCP Matters
+
+As AI becomes more collaborative and tool-dependent, MCP is setting the standard for how intelligent systems **communicate**, **integrate**, and **scale**. By providing a shared protocol, MCP reduces friction, lowers development costs, and unlocks the full potential of multi-agent AI workflows.
+
+---
+
+## Resources
+
+- [Anthropic MCP Documentation](https://docs.anthropic.com)
+- [MCP GitHub (modelcontextprotocol)](https://github.com/modelcontextprotocol)
+- [Claude by Anthropic](https://claude.ai)
+
+---
+
+*Created as part of an AI learning series.*
